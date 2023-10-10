@@ -1,4 +1,4 @@
-- Personagens -
+- Personagens (vértices) -
 
 LeBron James - LeBron James
 Bugs Bunny - Pernalonga
@@ -22,27 +22,80 @@ Michael Jordan - Michael Jordan
 Bill Murray - Bill Murray
 Don Cheadle - Don Cheadle
 
-- Relações - 
+- Interações na quadra de basquete (arestas) - 
 
-LeBron James:
-Bugs Bunny:
-Daffy Duck:
-Porky Pig:
-Lola Bunny:
-Tweety Bird:
-Sylvester the Cat:
-Granny:
-Marvin the Martian:
-Elmer Fudd:
-Yosemite Sam:
-Wile E. Coyote:
-Road Runner:
-Speedy Gonzales:
-Foghorn Leghorn:
-The Tasmanian Devil:
-Gossamer:
-The Monstars:
-Michael Jordan:
-Bill Murray:
-Don Cheadle:
+LeBron James <-> Bugs Bunny *
+LeBron James <-> Daffy Duck *
+LeBron James <-> Porky Pig *
+LeBron James <-> Lola Bunny *
+LeBron James <-> Tweety Bird *
+LeBron James <-> Sylvester the Cat *
+LeBron James <-> Granny *
+LeBron James <-> Marvin the Martian *
+LeBron James <-> Elmer Fudd *
+LeBron James <-> Yosemite Sam *
+LeBron James <-> Wile E. Coyote *
+LeBron James <-> Road Runner *
+LeBron James <-> Speedy Gonzales *
+LeBron James <-> Foghorn Leghorn *
+LeBron James <-> The Tazmanian Devil *
+LeBron James <-> Gossamer *
 
+Bugs Bunny <-> Daffy Duck *
+Bugs Bunny <-> Porky Pig *
+Bugs Bunny <-> Lola Bunny *
+Bugs Bunny <-> Tweety Bird *
+Bugs Bunny <-> Sylvester the Cat *
+Bugs Bunny <-> Granny *
+Bugs Bunny <-> Marvin the Martian *
+
+Daffy Duck <-> Porky Pig *
+Daffy Duck <-> Lola Bunny *
+Daffy Duck <-> Tweety Bird *
+Daffy Duck <-> Sylvester the Cat *
+Daffy Duck <-> Elmer Fudd *
+Daffy Duck <-> Yosemite Sam *
+Daffy Duck <-> Wile E. Coyote *
+Daffy Duck <-> Road Runner *
+
+Porky Pig <-> Lola Bunny *
+Porky Pig <-> Tweety Bird *
+Porky Pig <-> Sylvester the Cat *
+Porky Pig <-> Granny *
+Porky Pig <-> Elmer Fudd *
+Porky Pig <-> Yosemite Sam *
+Porky Pig <-> Wile E. Coyote *
+Porky Pig <-> Road Runner *
+
+Lola Bunny <-> Tweety Bird *
+Lola Bunny <-> Sylvester the Cat *
+Lola Bunny <-> Granny *
+
+Tweety Bird <-> Sylvester the Cat *
+Tweety Bird <-> Granny *
+
+Sylvester the Cat <-> Granny *
+
+Marvin the Martian <-> Elmer Fudd *
+Marvin the Martian <-> Yosemite Sam *
+Marvin the Martian <-> Wile E. Coyote *
+Marvin the Martian <-> Road Runner *
+
+Elmer Fudd <-> Yosemite Sam *
+Elmer Fudd <-> Wile E. Coyote *
+Elmer Fudd <-> Road Runner *
+
+Yosemite Sam <-> Wile E. Coyote *
+Yosemite Sam <-> Road Runner *
+
+Wile E. Coyote <-> Road Runner * 
+
+Speedy Gonzales <-> Foghorn Leghorn *
+Speedy Gonzales <-> The Tazmanian Devil *
+
+Foghorn Leghorn <-> The Tazmanian Devil *
+
+The Tazmanian Devil <-> Gossamer *
+
+As interações podem variar de passes de bola, jogadas colaborativas,
+disputas pela bola e outras ações que ocorrem durante uma partida de basquete.
