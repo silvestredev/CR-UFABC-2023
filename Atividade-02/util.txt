@@ -1,0 +1,48 @@
+- Personagens -
+
+LeBron James - LeBron James
+Bugs Bunny - Pernalonga
+Daffy Duck - Patolino
+Porky Pig - Porquinho
+Lola Bunny - Lola Coelho
+Tweety Bird - Frajola
+Sylvester the Cat - Frajola (o gato)
+Granny - Vovó
+Marvin the Martian - Marvin, o Marciano
+Elmer Fudd - Hortelino
+Yosemite Sam - Sam Bigodes
+Wile E. Coyote - Coiote Willy
+Road Runner - Papa-Léguas
+Speedy Gonzales - Ligeirinho
+Foghorn Leghorn - Galo Leghorn
+The Tasmanian Devil - O Diabo da Tasmânia
+Gossamer - Gossamer
+The Monstars - Os Monstars
+Michael Jordan - Michael Jordan
+Bill Murray - Bill Murray
+Don Cheadle - Don Cheadle
+
+- Relações - 
+
+LeBron James:
+Bugs Bunny:
+Daffy Duck:
+Porky Pig:
+Lola Bunny:
+Tweety Bird:
+Sylvester the Cat:
+Granny:
+Marvin the Martian:
+Elmer Fudd:
+Yosemite Sam:
+Wile E. Coyote:
+Road Runner:
+Speedy Gonzales:
+Foghorn Leghorn:
+The Tasmanian Devil:
+Gossamer:
+The Monstars:
+Michael Jordan:
+Bill Murray:
+Don Cheadle:
+
