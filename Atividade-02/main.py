@@ -104,3 +104,9 @@ G.add_edge("Foghorn Leghorn", "The Tazmanian Devil")
 
 # The Tazmanian Devil
 G.add_edge("The Tazmanian Devil", "Gossamer")
+
+# Plotando o grafo
+plt.figure(1)
+
+nx.draw_networkx(G, pos= nx.spring_layout(G), with_labels= True)
+plt.show()
